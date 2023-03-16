@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(212, 221, 240)
+}
+
+h1{
+    font-size: 56px;
+    font-style: italic;
+    color: darkslategrey;
+    text-align: center;
+}
+
+h2{
+    font-size: 40px;
+    font-style: italic;
+    color: darkslategrey;
+    text-align: left;
+}
+
+p{
+    font-size: 30px;
+    color: rgb(11, 12, 12);
+    font-style: italic;
+}
+
+.highlight{
+    font-style: italic;
+    background-color: lightslategray;
+    color: azure;
+}
+
+.quote{
+    font-weight: normal;
+    background-color: lightslategray;
+    color: azure;
+    font-size: 24px;
+}
+
+.align-center{
+    text-align: center;
+}
+.block-color{
+    background-color: lightslategray;
+    color: azure;
+}
+
+ol {
+    font-weight: bold;
+    font-size: 24px;   
+}
+
+div {
+    font-style: italic;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+
+
